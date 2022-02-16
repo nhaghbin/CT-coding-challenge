@@ -1,0 +1,16 @@
+Number of words: 443
+The list of top 10 most used words:
+the : 18
+a : 16
+is : 14
+of : 13
+for : 12
+in : 12
+to : 10
+auctions : 10
+an : 9
+are : 8
+price : 8
+The latest sentence in the file that contained the most used word is below:
+"Closed formats are opague: only the seller is able to tell how much each customer is willing to pay for an object."
+The most used word in the file is: "the"
